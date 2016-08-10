@@ -1,0 +1,373 @@
+country	region	area_code	area	population	percent_leave	percent_non_uk_born
+England	North East	E06000001	Hartlepool	92	69.57	3.26
+England	North East	E06000002	Middlesbrough	138	65.48	9.42
+England	North East	E06000003	Redcar and Cleveland	133	66.19	1.5
+England	North East	E06000004	Stockton-on-Tees	191	61.73	4.19
+England	North East	E06000005	Darlington	104	56.18	6.73
+England	North West	E06000006	Halton	125	57.42	3.2
+England	North West	E06000007	Warrington	202	54.27	7.43
+England	North West	E06000008	Blackburn with Darwen	146	56.34	14.38
+England	North West	E06000009	Blackpool	137	67.46	5.84
+England	Yorkshire and The Humber	E06000010	Kingston upon Hull, City of	254	67.62	10.24
+England	Yorkshire and The Humber	E06000011	East Riding of Yorkshire	332	60.4	4.22
+England	Yorkshire and The Humber	E06000012	North East Lincolnshire	158	69.87	3.8
+England	Yorkshire and The Humber	E06000013	North Lincolnshire	169	66.3	7.1
+England	Yorkshire and The Humber	E06000014	York	201	41.96	7.96
+England	East Midlands	E06000015	Derby	251	57.22	14.34
+England	East Midlands	E06000016	Leicester	333	48.92	35.14
+England	East Midlands	E06000017	Rutland	34	50.57	5.88
+England	East Midlands	E06000018	Nottingham	311	50.84	21.86
+England	West Midlands	E06000019	Herefordshire, County of	184	59.22	7.07
+England	West Midlands	E06000020	Telford and Wrekin	167	63.22	7.19
+England	West Midlands	E06000021	Stoke-on-Trent	250	69.36	11.2
+England	South West	E06000022	Bath and North East Somerset	177	42.15	9.04
+England	South West	E06000023	Bristol, City of	435	38.27	19.08
+England	South West	E06000024	North Somerset	203	52.17	5.42
+England	South West	E06000025	South Gloucestershire	267	52.68	6.37
+England	South West	E06000026	Plymouth	257	59.94	6.61
+England	South West	E06000027	Torbay	129	63.16	8.53
+England	South West	E06000028	Bournemouth	191	54.88	17.28
+England	South West	E06000029	Poole	148	58.17	8.11
+England	South West	E06000030	Swindon	215	54.66	13.49
+England	East	E06000031	Peterborough	189	60.89	20.63
+England	East	E06000032	Luton	210	56.55	33.81
+England	East	E06000033	Southend-on-Sea	175	58.08	11.43
+England	East	E06000034	Thurrock	161	72.28	13.04
+England	South East	E06000035	Medway	270	64.08	9.63
+England	South East	E06000036	Bracknell Forest	114	53.94	14.04
+England	South East	E06000037	West Berkshire	152	48.22	11.18
+England	South East	E06000038	Reading	158	41.97	25.32
+England	South East	E06000039	Slough	145	54.33	40
+England	South East	E06000040	Windsor and Maidenhead	144	46.1	16.67
+England	South East	E06000041	Wokingham	157	43.31	14.01
+England	South East	E06000042	Milton Keynes	257	51.41	19.84
+England	South East	E06000043	Brighton and Hove	277	31.38	16.25
+England	South East	E06000044	Portsmouth	208	58.08	12.98
+England	South East	E06000045	Southampton	243	53.8	22.22
+England	South East	E06000046	Isle of Wight	135	61.95	5.19
+England	North East	E06000047	County Durham	510	57.55	3.53
+England	North West	E06000049	Cheshire East	370	51.18	4.86
+England	North West	E06000050	Cheshire West and Chester	328	50.68	4.88
+England	West Midlands	E06000051	Shropshire	304	56.87	4.61
+England	South West	E06000052	Cornwall	540	56.52	5.56
+England	South West	E06000054	Wiltshire	470	52.49	7.23
+England	East	E06000055	Bedford	159	51.78	14.47
+England	East	E06000056	Central Bedfordshire	265	56.13	7.92
+England	North East	E06000057	Northumberland	311	54.11	2.25
+England	South East	E07000004	Aylesbury Vale	179	50.5	8.38
+England	South East	E07000005	Chiltern	92	44.98	14.13
+England	South East	E07000006	South Bucks	67	50.7	19.4
+England	South East	E07000007	Wycombe	174	48.03	14.37
+England	East	E07000008	Cambridge	127	26.15	30.71
+England	East	E07000009	East Cambridgeshire	86	50.92	8.14
+England	East	E07000010	Fenland	96	71.39	6.25
+England	East	E07000011	Huntingdonshire	171	54.24	9.36
+England	East	E07000012	South Cambridgeshire	153	39.77	8.5
+England	North West	E07000026	Allerdale	95	58.65	1.05
+England	North West	E07000027	Barrow-in-Furness	67	60.62	5.97
+England	North West	E07000028	Carlisle	107	60.14	5.61
+England	North West	E07000029	Copeland	69	62	2.9
+England	North West	E07000030	Eden	52	53.32	3.85
+England	North West	E07000031	South Lakeland	100	47.14	5
+England	East Midlands	E07000032	Amber Valley	122	60.28	3.28
+England	East Midlands	E07000033	Bolsover	76	70.83	3.95
+England	East Midlands	E07000034	Chesterfield	103	60.04	8.74
+England	East Midlands	E07000036	Erewash	112	61.23	3.57
+England	East Midlands	E07000037	High Peak	90	50.55	4.44
+England	East Midlands	E07000038	North East Derbyshire	99	62.78	2.02
+England	East Midlands	E07000039	South Derbyshire	96	60.35	2.08
+England	South West	E07000040	East Devon	133	54.11	4.51
+England	South West	E07000041	Exeter	121	44.72	10.74
+England	South West	E07000042	Mid Devon	78	53.34	6.41
+England	South West	E07000043	North Devon	92	57.04	2.17
+England	South West	E07000044	South Hams	83	47.15	6.02
+England	South West	E07000045	Teignbridge	123	53.9	4.88
+England	South West	E07000046	Torridge	65	60.83	1.54
+England	South West	E07000047	West Devon	53	53.2	5.66
+England	South West	E07000048	Christchurch	48	58.83	2.08
+England	South West	E07000049	East Dorset	88	57.62	6.82
+England	South West	E07000050	North Dorset	67	56.4	5.97
+England	South West	E07000051	Purbeck	45	59.07	6.67
+England	South West	E07000052	West Dorset	98	51.03	3.06
+England	South West	E07000053	Weymouth and Portland	63	61.04	6.35
+England	South East	E07000061	Eastbourne	99	57.33	9.09
+England	South East	E07000062	Hastings	89	54.88	6.74
+England	South East	E07000063	Lewes	99	47.93	9.09
+England	South East	E07000064	Rother	90	58.53	4.44
+England	South East	E07000065	Wealden	151	54.5	3.97
+England	East	E07000066	Basildon	177	68.62	7.91
+England	East	E07000067	Braintree	149	61.13	3.36
+England	East	E07000068	Brentwood	74	59.15	12.16
+England	East	E07000069	Castle Point	88	72.7	3.41
+England	East	E07000070	Chelmsford	169	52.83	7.1
+England	East	E07000071	Colchester	177	53.6	12.99
+England	East	E07000072	Epping Forest	127	62.69	7.09
+England	East	E07000073	Harlow	83	68.1	9.64
+England	East	E07000074	Maldon	62	62.58	3.23
+England	East	E07000075	Rochford	84	66.61	3.57
+England	East	E07000076	Tendring	136	69.5	5.88
+England	East	E07000077	Uttlesford	83	50.68	3.61
+England	South West	E07000078	Cheltenham	114	43.83	14.91
+England	South West	E07000079	Cotswold	83	48.9	7.23
+England	South West	E07000080	Forest of Dean	81	58.58	4.94
+England	South West	E07000081	Gloucester	124	58.5	8.06
+England	South West	E07000082	Stroud	113	45.39	7.08
+England	South West	E07000083	Tewkesbury	84	53.25	5.95
+England	South East	E07000084	Basingstoke and Deane	173	51.9	10.4
+England	South East	E07000085	East Hampshire	115	49.48	5.22
+England	South East	E07000086	Eastleigh	128	52.45	9.38
+England	South East	E07000087	Fareham	113	55.1	3.54
+England	South East	E07000088	Gosport	83	63.86	6.02
+England	South East	E07000089	Hart	91	47.6	12.09
+England	South East	E07000090	Havant	121	62.36	4.96
+England	South East	E07000091	New Forest	176	57.76	6.25
+England	South East	E07000092	Rushmoor	94	58.21	15.96
+England	South East	E07000093	Test Valley	116	51.94	6.03
+England	South East	E07000094	Winchester	116	41.07	3.45
+England	East	E07000095	Broxbourne	95	66.26	10.53
+England	East	E07000096	Dacorum	147	50.67	8.84
+England	East	E07000098	Hertsmere	100	50.84	16
+England	East	E07000099	North Hertfordshire	129	45.63	6.2
+England	East	E07000102	Three Rivers	89	51.27	8.99
+England	East	E07000103	Watford	94	50.27	26.6
+England	South East	E07000105	Ashford	122	59.43	13.11
+England	South East	E07000106	Canterbury	154	51.04	7.14
+England	South East	E07000107	Dartford	100	64.22	11
+England	South East	E07000108	Dover	110	62.15	3.64
+England	South East	E07000109	Gravesham	104	65.38	17.31
+England	South East	E07000110	Maidstone	158	58.75	11.39
+England	South East	E07000111	Sevenoaks	117	54.38	11.11
+England	South East	E07000112	Shepway	108	62.25	10.19
+England	South East	E07000113	Swale	138	62.46	5.8
+England	South East	E07000114	Thanet	135	63.85	8.89
+England	South East	E07000115	Tonbridge and Malling	122	55.7	4.92
+England	South East	E07000116	Tunbridge Wells	114	45.11	9.65
+England	North West	E07000117	Burnley	86	66.61	10.47
+England	North West	E07000118	Chorley	108	56.83	5.56
+England	North West	E07000119	Fylde	75	56.96	5.33
+England	North West	E07000120	Hyndburn	79	66.19	7.59
+England	North West	E07000121	Lancaster	139	51.08	9.35
+England	North West	E07000122	Pendle	89	63.15	8.99
+England	North West	E07000123	Preston	139	53.31	17.99
+England	North West	E07000124	Ribble Valley	57	56.39	1.75
+England	North West	E07000126	South Ribble	108	58.56	3.7
+England	North West	E07000127	West Lancashire	110	55.31	6.36
+England	North West	E07000128	Wyre	107	63.77	1.87
+England	East Midlands	E07000129	Blaby	94	59.47	3.19
+England	East Midlands	E07000130	Charnwood	171	53.81	10.53
+England	East Midlands	E07000131	Harborough	86	50.75	4.65
+England	East Midlands	E07000133	Melton	51	58.11	3.92
+England	East Midlands	E07000134	North West Leicestershire	94	60.7	8.51
+England	East Midlands	E07000135	Oadby and Wigston	56	54.58	14.29
+England	East Midlands	E07000136	Boston	65	75.56	15.38
+England	East Midlands	E07000137	East Lindsey	134	70.65	4.48
+England	East Midlands	E07000138	Lincoln	95	56.94	15.79
+England	East Midlands	E07000139	North Kesteven	109	62.26	7.34
+England	East Midlands	E07000140	South Holland	88	73.59	13.64
+England	East Midlands	E07000141	South Kesteven	136	59.93	6.62
+England	East Midlands	E07000142	West Lindsey	90	61.82	1.11
+England	East	E07000143	Breckland	131	64.22	6.87
+England	East	E07000144	Broadland	124	54.37	4.84
+England	East	E07000145	Great Yarmouth	97	71.5	6.19
+England	East	E07000146	King's Lynn and West Norfolk	148	66.4	6.76
+England	East	E07000147	North Norfolk	100	58.91	6
+England	East	E07000148	Norwich	136	43.76	14.71
+England	East	E07000149	South Norfolk	128	51.69	5.47
+England	East Midlands	E07000150	Corby	66	64.25	13.64
+England	East Midlands	E07000151	Daventry	77	58.6	2.6
+England	East Midlands	E07000152	East Northamptonshire	86	58.76	5.81
+England	East Midlands	E07000153	Kettering	96	60.99	7.29
+England	East Midlands	E07000154	Northampton	216	58.38	16.2
+England	East Midlands	E07000155	South Northamptonshire	86	54.34	9.3
+England	East Midlands	E07000156	Wellingborough	76	62.42	9.21
+England	Yorkshire and The Humber	E07000163	Craven	54	52.83	5.56
+England	Yorkshire and The Humber	E07000164	Hambleton	89	53.66	2.25
+England	Yorkshire and The Humber	E07000165	Harrogate	155	49.03	12.26
+England	Yorkshire and The Humber	E07000166	Richmondshire	50	56.78	12
+England	Yorkshire and The Humber	E07000168	Scarborough	107	61.99	3.74
+England	Yorkshire and The Humber	E07000169	Selby	84	59.17	2.38
+England	East Midlands	E07000170	Ashfield	120	69.84	2.5
+England	East Midlands	E07000171	Bassetlaw	111	67.83	4.5
+England	East Midlands	E07000172	Broxtowe	111	54.65	6.31
+England	East Midlands	E07000173	Gedling	114	55.55	7.02
+England	East Midlands	E07000174	Mansfield	104	70.86	9.62
+England	East Midlands	E07000175	Newark and Sherwood	115	60.39	6.09
+England	East Midlands	E07000176	Rushcliffe	110	42.45	6.36
+England	South East	E07000177	Cherwell	141	50.31	12.06
+England	South East	E07000178	Oxford	152	29.73	28.95
+England	South East	E07000179	South Oxfordshire	134	45.02	8.96
+England	South East	E07000180	Vale of White Horse	122	43.3	12.3
+England	South East	E07000181	West Oxfordshire	107	46.34	8.41
+England	South West	E07000187	Mendip	108	48.93	7.41
+England	South West	E07000188	Sedgemoor	117	61.2	6.84
+England	South West	E07000189	South Somerset	161	57.25	5.59
+England	South West	E07000190	Taunton Deane	110	52.92	9.09
+England	West Midlands	E07000192	Cannock Chase	98	68.86	2.04
+England	West Midlands	E07000193	East Staffordshire	113	63.21	8.85
+England	West Midlands	E07000194	Lichfield	100	58.81	3
+England	West Midlands	E07000195	Newcastle-under-Lyme	123	63.04	2.44
+England	West Midlands	E07000196	South Staffordshire	107	64.85	2.8
+England	West Midlands	E07000197	Stafford	130	55.99	6.15
+England	West Midlands	E07000198	Staffordshire Moorlands	96	64.73	5.21
+England	West Midlands	E07000199	Tamworth	77	67.47	1.3
+England	East	E07000200	Babergh	87	54.19	6.9
+England	East	E07000201	Forest Heath	61	64.97	29.51
+England	East	E07000202	Ipswich	135	58.26	12.59
+England	East	E07000203	Mid Suffolk	98	55.23	4.08
+England	East	E07000204	St Edmundsbury	110	56.62	11.82
+England	East	E07000205	Suffolk Coastal	122	53	4.92
+England	East	E07000206	Waveney	114	62.9	4.39
+England	South East	E07000207	Elmbridge	130	40.47	17.69
+England	South East	E07000208	Epsom and Ewell	77	47.92	14.29
+England	South East	E07000209	Guildford	141	43.83	12.77
+England	South East	E07000210	Mole Valley	85	46.92	10.59
+England	South East	E07000211	Reigate and Banstead	139	50.49	15.83
+England	South East	E07000212	Runnymede	83	54.26	14.46
+England	South East	E07000213	Spelthorne	98	60.3	16.33
+England	South East	E07000214	Surrey Heath	86	50.98	9.3
+England	South East	E07000215	Tandridge	83	52.84	10.84
+England	South East	E07000216	Waverley	119	41.61	11.76
+England	South East	E07000217	Woking	99	43.85	18.18
+England	West Midlands	E07000219	Nuneaton and Bedworth	126	66.01	6.35
+England	West Midlands	E07000220	Rugby	100	56.7	12
+England	West Midlands	E07000221	Stratford-on-Avon	119	51.56	7.56
+England	West Midlands	E07000222	Warwick	138	41.22	8.7
+England	South East	E07000223	Adur	62	54.57	9.68
+England	South East	E07000224	Arun	150	62.48	8
+England	South East	E07000225	Chichester	114	50.92	7.89
+England	South East	E07000226	Crawley	110	58.41	20.91
+England	South East	E07000227	Horsham	131	48.54	9.16
+England	South East	E07000228	Mid Sussex	141	46.91	8.51
+England	South East	E07000229	Worthing	105	52.99	8.57
+England	West Midlands	E07000234	Bromsgrove	92	55.37	2.17
+England	West Midlands	E07000235	Malvern Hills	74	52.16	5.41
+England	West Midlands	E07000236	Redditch	84	62.29	11.9
+England	West Midlands	E07000237	Worcester	100	53.68	6
+England	West Midlands	E07000238	Wychavon	117	57.86	4.27
+England	West Midlands	E07000239	Wyre Forest	97	63.15	5.15
+England	East	E07000240	St Albans	142	37.29	8.45
+England	East	E07000241	Welwyn Hatfield	113	52.99	24.78
+England	East	E07000242	East Hertfordshire	140	50.36	8.57
+England	East	E07000243	Stevenage	86	59.25	11.63
+England	North West	E08000001	Bolton	280	58.29	11.07
+England	North West	E08000002	Bury	185	54.12	7.57
+England	North West	E08000003	Manchester	520	39.64	25
+England	North West	E08000004	Oldham	225	60.86	14.22
+England	North West	E08000005	Rochdale	210	60.07	11.9
+England	North West	E08000006	Salford	239	56.81	13.39
+England	North West	E08000007	Stockport	283	47.67	6.71
+England	North West	E08000008	Tameside	220	61.14	8.64
+England	North West	E08000009	Trafford	230	42.31	11.3
+England	North West	E08000010	Wigan	318	63.9	3.77
+England	North West	E08000011	Knowsley	144	51.56	3.47
+England	North West	E08000012	Liverpool	469	41.81	11.3
+England	North West	E08000013	St. Helens	175	58.02	2.86
+England	North West	E08000014	Sefton	269	48.13	3.35
+England	North West	E08000015	Wirral	318	48.3	4.09
+England	Yorkshire and The Humber	E08000016	Barnsley	235	68.31	3.83
+England	Yorkshire and The Humber	E08000017	Doncaster	299	68.96	9.03
+England	Yorkshire and The Humber	E08000018	Rotherham	258	67.89	5.04
+England	Yorkshire and The Humber	E08000019	Sheffield	562	50.99	10.14
+England	North East	E08000021	Newcastle upon Tyne	284	49.3	13.03
+England	North East	E08000022	North Tyneside	201	53.4	5.97
+England	North East	E08000023	South Tyneside	147	62.05	4.08
+England	North East	E08000024	Sunderland	273	61.34	5.13
+England	West Midlands	E08000025	Birmingham	1094	50.42	20.29
+England	West Midlands	E08000026	Coventry	331	55.6	23.56
+England	West Midlands	E08000027	Dudley	312	67.6	5.13
+England	West Midlands	E08000028	Sandwell	314	66.72	19.75
+England	West Midlands	E08000029	Solihull	207	56.16	10.63
+England	West Midlands	E08000030	Walsall	273	67.86	10.62
+England	West Midlands	E08000031	Wolverhampton	250	62.57	18.4
+England	Yorkshire and The Humber	E08000032	Bradford	525	54.23	12.95
+England	Yorkshire and The Humber	E08000033	Calderdale	206	55.68	7.28
+England	Yorkshire and The Humber	E08000034	Kirklees	427	54.67	11.94
+England	Yorkshire and The Humber	E08000035	Leeds	758	49.69	12.8
+England	Yorkshire and The Humber	E08000036	Wakefield	326	66.36	8.59
+England	North East	E08000037	Gateshead	198	56.85	3.54
+England	London	E09000002	Barking and Dagenham	197	62.44	37.06
+England	London	E09000003	Barnet	373	37.77	35.92
+England	London	E09000004	Bexley	236	62.95	16.1
+England	London	E09000005	Brent	322	40.26	55.59
+England	London	E09000006	Bromley	316	49.35	17.09
+England	London	E09000007	Camden	230	25.06	42.17
+England	London	E09000008	Croydon	374	45.71	29.68
+England	London	E09000009	Ealing	342	39.6	45.61
+England	London	E09000010	Enfield	323	44.18	32.82
+England	London	E09000011	Greenwich	267	44.41	32.96
+England	London	E09000012	Hackney	261	21.52	38.31
+England	London	E09000013	Hammersmith and Fulham	176	29.98	41.48
+England	London	E09000014	Haringey	263	24.43	39.54
+England	London	E09000015	Harrow	245	45.37	50.61
+England	London	E09000016	Havering	241	69.66	12.03
+England	London	E09000017	Hillingdon	290	56.37	33.1
+England	London	E09000018	Hounslow	267	48.94	47.57
+England	London	E09000019	Islington	218	24.78	36.7
+England	London	E09000020	Kensington and Chelsea	150	31.31	54.67
+England	London	E09000021	Kingston upon Thames	167	38.39	28.74
+England	London	E09000022	Lambeth	318	21.38	33.33
+England	London	E09000023	Lewisham	287	30.14	31.01
+England	London	E09000024	Merton	203	37.06	41.38
+England	London	E09000025	Newham	327	47.16	51.38
+England	London	E09000026	Redbridge	291	46.03	40.21
+England	London	E09000027	Richmond upon Thames	190	30.71	24.21
+England	London	E09000028	Southwark	299	27.19	35.79
+England	London	E09000029	Sutton	196	53.72	26.53
+England	London	E09000030	Tower Hamlets	276	32.54	37.68
+England	London	E09000031	Waltham Forest	269	40.9	36.06
+England	London	E09000032	Wandsworth	308	24.97	32.47
+England	London	E09000033	Westminster	232	31.03	50.43
+Wales	Wales	W06000001	Isle of Anglesey	69	50.94	4.35
+Wales	Wales	W06000002	Gwynedd	122	41.95	4.92
+Wales	Wales	W06000003	Conwy	113	53.98	5.31
+Wales	Wales	W06000004	Denbighshire	93	54	3.23
+Wales	Wales	W06000005	Flintshire	152	56.37	5.26
+Wales	Wales	W06000006	Wrexham	136	59.04	7.35
+Wales	Wales	W06000008	Ceredigion	76	45.37	6.58
+Wales	Wales	W06000009	Pembrokeshire	122	57.14	3.28
+Wales	Wales	W06000010	Carmarthenshire	183	53.75	4.92
+Wales	Wales	W06000011	Swansea	239	51.51	7.53
+Wales	Wales	W06000012	Neath Port Talbot	139	56.84	2.16
+Wales	Wales	W06000013	Bridgend	138	54.64	3.62
+Wales	Wales	W06000014	Vale of Glamorgan	125	49.27	5.6
+Wales	Wales	W06000015	Cardiff	351	39.98	13.68
+Wales	Wales	W06000016	Rhondda Cynon Taf	234	53.7	2.56
+Wales	Wales	W06000018	Caerphilly	179	57.63	2.23
+Wales	Wales	W06000019	Blaenau Gwent	69	62.03	2.9
+Wales	Wales	W06000020	Torfaen	91	59.78	3.3
+Wales	Wales	W06000021	Monmouthshire	90	49.56	4.44
+Wales	Wales	W06000022	Newport	146	55.99	11.64
+Wales	Wales	W06000023	Powys	131	53.74	3.05
+Wales	Wales	W06000024	Merthyr Tydfil	59	56.44	6.78
+Scotland	Scotland	S12000005	Clackmannanshire	50	42.22	6
+Scotland	Scotland	S12000006	Dumfries and Galloway	148	46.94	3.38
+Scotland	Scotland	S12000008	East Ayrshire	121	41.4	2.48
+Scotland	Scotland	S12000010	East Lothian	100	35.4	5
+Scotland	Scotland	S12000011	East Renfrewshire	91	25.68	4.4
+Scotland	Scotland	S12000013	Eilean Siar	27	44.76	3.7
+Scotland	Scotland	S12000014	Falkirk	156	43.24	4.49
+Scotland	Scotland	S12000015	Fife	362	41.41	4.97
+Scotland	Scotland	S12000017	Highland	232	44.05	6.47
+Scotland	Scotland	S12000018	Inverclyde	79	36.2	2.53
+Scotland	Scotland	S12000019	Midlothian	84	37.94	4.76
+Scotland	Scotland	S12000020	Moray	91	49.87	4.4
+Scotland	Scotland	S12000021	North Ayrshire	135	43.12	2.22
+Scotland	Scotland	S12000024	Perth and Kinross	145	38.91	7.59
+Scotland	Scotland	S12000026	Scottish Borders	113	41.53	5.31
+Scotland	Scotland	S12000027	Shetland Islands	24	43.49	4.17
+Scotland	Scotland	S12000028	South Ayrshire	112	41.04	3.57
+Scotland	Scotland	S12000029	South Lanarkshire	311	36.92	2.89
+Scotland	Scotland	S12000030	Stirling	88	32.28	7.95
+Scotland	Scotland	S12000033	Aberdeen City	224	38.9	18.75
+Scotland	Scotland	S12000034	Aberdeenshire	256	44.99	5.08
+Scotland	Scotland	S12000035	Argyll and Bute	83	39.43	4.82
+Scotland	Scotland	S12000036	City of Edinburgh	482	25.56	13.49
+Scotland	Scotland	S12000038	Renfrewshire	173	35.19	6.36
+Scotland	Scotland	S12000039	West Dunbartonshire	89	38.01	3.37
+Scotland	Scotland	S12000040	West Lothian	175	41.75	5.71
+Scotland	Scotland	S12000041	Angus	115	44.74	4.35
+Scotland	Scotland	S12000042	Dundee City	145	40.22	12.41
+Scotland	Scotland	S12000044	North Lanarkshire	335	38.34	3.28
+Scotland	Scotland	S12000045	East Dunbartonshire	106	28.6	5.66
+Scotland	Scotland	S12000046	Glasgow City	589	33.41	13.58
+Northern Ireland	Northern Ireland	N92000002	Northern Ireland	1821	44.22	6.81

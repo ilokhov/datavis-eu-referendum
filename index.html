@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>EU referendum: which areas in the UK voted leave?</title>
+		<meta name="viewport" content="width=1000">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<div class="wrap">
+			<main>
+				<h1>EU referendum: which areas in the UK voted leave?</h1>
+				<div id="chart"></div>
+				<div id="text">
+					<h2>Background</h2>
+					<p>
+						On 23rd June 2016 a referendum was held in the United Kingdom in which voters were asked whether the UK should stay in or leave the European Union. Immigration was a widely mentioned and debated issue around the time of the referendum. Those in favour of the UK leaving the EU, including the official leave campaign, claimed that immigration was putting pressure on public services, housing and jobs and promised a reduction in rates of immigration in the event that the UK should vote to leave.
+					</p>
+					<p>
+						The referendum resulted in 51.9% voting to leave the EU. In the aftermath of the referendum, much has been discussed with regards to regional and demographic differences between areas which voted to remain and those which voted to leave. Since the issue of immigration is regarded as a major driving force behind the leave votes, it is interesting to see whether areas in the UK with high proportions of residents born abroad were also more likely produce a leave vote.
+					</p>
+					<p>
+						In order to explore whether such a trend exists I created a scatter plot which charts the percentage of those who voted to leave against the percentage of non-UK born residents in different areas of the UK.
+					</p>
+					<h2>Data collection, preparation and visualisation</h2>
+					<p>
+						The referendum result data was retrieved from the <a href="http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/past-elections-and-referendums/eu-referendum/electorate-and-count-information">Electoral Commision</a>.
+					</p>
+					<p>
+						The overall populations and proportions of non-UK born residents of various areas were retrieved from the <a href="http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/populationoftheunitedkingdombycountryofbirthandnationality">Office for National Statistics</a> and the <a href="http://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/estimates-of-special-populations/population-by-country-of-birth-and-nationality">National Records of Scotland</a>. Several areas were missing statistics relating to non-UK born residents and were therefore excluded. Gibraltar was excluded due to being a special case and an extreme outlier (only 4.09% voted to leave there).
+					</p>
+					<p>
+						The data was assembled, cleaned and prepared for use with Google Sheets.
+					</p>
+					<p>
+						The chart was implemented using <a href="https://d3js.org/">d3.js</a>.
+					</p>
+					<h2>Analysis</h2>
+					<p>
+						No definitive analysis can be drawn from such a chart and the nature of this visualisation is purely exploratory. It is interesting to note however, that some of the areas with the highest proportion of non UK-born residents actually had the lowest percentages of leave votes and vice versa. This is especially evident when comparing different areas in England.
+					</p>
+				</div>
+			</main>
+			<footer>
+				by <a href="https://github.com/ilokhov">Ivan Lokhov</a> / <a href="https://github.com/ilokhov/datavis-eu-referendum">Source</a>
+			</footer>
+		</div>
+		<script src="js/d3.min.js"></script>
+		<script src="js/script.js"></script>
+	</body>
+</html>
