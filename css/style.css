@@ -49,7 +49,7 @@ a:hover {
 .wrap {
   width: 960px;
   margin: 0 auto;
-  padding:  0 10px;
+  padding: 0 10px;
 }
 main {
   margin: 2em 0 4em;
@@ -76,13 +76,33 @@ svg {
 .axis .tick {
   font-size: 11px;
 }
+.legend-group {
+  cursor: pointer;
+}
 .legend-rect {
   stroke-width: 1;
   shape-rendering: crispEdges;
+  -webkit-transition: stroke 0.4s, fill 0.4s;
+  transition: stroke 0.4s, fill 0.4s;
 }
 .legend-text {
   fill: #000;
   font-size: 15px;
+  -webkit-transition: fill 0.4s;
+  transition: fill 0.4s;
+}
+.legend-group:hover .legend-text {
+  font-weight: 700;
+}
+.legend-group:hover .legend-rect {
+  stroke-width: 3;
+}
+.legend-group.inactive .legend-rect {
+  fill: rgba(238, 238, 238, 1);
+  stroke: rgba(238, 238, 238, 1);
+}
+.legend-group.inactive .legend-text {
+  fill: #999;
 }
 .fifty-pct-line {
   stroke: #666;
@@ -90,8 +110,10 @@ svg {
   stroke-dasharray: 5;
   shape-rendering: crispEdges;
 }
-.point {
+circle {
   stroke-width: 1;
+  -webkit-transition: stroke 0.2s, fill 0.2s;
+  transition: stroke 0.2s, fill 0.2s;
 }
 .tooltip {
   background: #fff;
